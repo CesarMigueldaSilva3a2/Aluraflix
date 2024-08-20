@@ -1,6 +1,12 @@
-.corpo {background-color: red
-}
-
-title {
-
-}
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    background-image: url('https://acdn.mitiendanube.com/stores/002/767/708/products/ad4535-3c0c52e27857ad8c0616976396479347-1024-1024.jpg');
+    content: '';
+    position: absolute;;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+    }
